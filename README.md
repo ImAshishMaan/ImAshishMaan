@@ -1,5 +1,7 @@
 ### Hi there 👋 
-![giphy9](https://user-images.githubusercontent.com/56478257/96971901-6790f280-1533-11eb-9403-c2e7d5a74af0.gif)
+
+![c1c203_6eea7ea049cf43f0b2dfaccc6894bb81~mv2](https://user-images.githubusercontent.com/56478257/96972206-d2422e00-1533-11eb-8ce1-3ce51998f7de.gif)
+
 <!--
 **ImAshishMaan/ImAshishMaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
