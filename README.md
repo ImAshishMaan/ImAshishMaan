@@ -7,7 +7,7 @@ Wanna stalk my website❓👉 [Click Here](https://www.imashishmaan.com)✨
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on AI Self driving car project
+- 🔭 I’m currently working on AI Chatbot project
 - 🌱 I’m currently learning Deep learning/Artificial Intelligence
 - 🤔 I’m looking for help with AI enthusiast peoples 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ashish-maan/)
