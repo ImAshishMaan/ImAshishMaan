@@ -7,6 +7,6 @@ Wanna stalk my website❓👉 [Click Here](https://www.imashishmaan.com)✨
 
 Here are some ideas to get you started:
 -->
-- 🌱 I’m currently learning Deep learning/Artificial Intelligence and Reinforcement Learning.
+- 🌱 I’m currently learning Unity and Blender for Game Development.
 - ✨ I have worked on HTML, CSS, Javascript, Flutter Development, Unity, Flask, API, Firebase, Numpy, Pandas, Data analysis, Machine Learning Algo.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ashish-maan/)
