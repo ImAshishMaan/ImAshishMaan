@@ -9,3 +9,4 @@ Here are some ideas to get you started:
 -->
 - 🌱 I’m currently learning Unreal Engine.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ashish-maan/)
+- NOTE: All my Unreal Engine projects are focused on scripting in C++ and deepening their understanding of core concepts, without including environments.
